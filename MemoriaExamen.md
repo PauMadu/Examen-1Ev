@@ -44,8 +44,8 @@ Y por último crearemos un archivo:
 ```
 $ sudo touch ejercicio2.txt
 ```
-Y la comprobación:
-[!comprobación](https://github.com/PauMadu/Examen-1Ev/blob/main/Comprobacion%20Ej2.png)
+Y la comprobación:  
+![comprobación](https://github.com/PauMadu/Examen-1Ev/blob/main/Comprobacion%20Ej2.png)
 
 ## Ejercicio 3.
 
